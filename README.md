@@ -4,7 +4,7 @@
 - 👀 I’m interested in Laravel/VueJs/InertiaJS
 - 🌱 I’m currently learning VueJS & InertiaJS
 - 📫 How to reach me: normally at the beach casting my rod deep in thought.
-- I am a Director at evoMARK Ltd, BikeCatcher (Founder) and Director of BikeCatcher (Founder).
+- I am a Director at evoMARK Ltd, BikeCatcher (Founder).
 
 <!---
 kennyturner/kennyturner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
